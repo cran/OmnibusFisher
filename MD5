@@ -1,0 +1,11 @@
+0b9976afc923d7cfc864816eeb414709 *DESCRIPTION
+c6ec5405fe345536761fcd2e39f15df5 *NAMESPACE
+6b10d941eba598e6e032a0923e67f6a6 *R/OmnibusFisher_iteration_GM.R
+c6fec239f121df7c3ce9000623bf45cf *R/OmnibusFisher_iteration_GMR.R
+84c86d3e7e9da2820627427514201a83 *R/OmnibusFisher_iteration_GR.R
+207a798020dcc467eedca12b06b02ac5 *R/OmnibusFisher_iteration_MR.R
+5c60ccb4d0b04469bef28fcb0c5cd410 *R/OmnibusFisher_outer.R
+bd6f9c529591f11eea02118b57b94561 *R/example_data.R
+f8f0f30ab7debb34bbee0d549b8c0b15 *data/example_data.RData
+b0b408b44c79540cde3a8429b3bfa221 *man/OmnibusFisher.Rd
+8ef0a2303238ba08d4346f600ccad8ab *man/example_data.Rd
